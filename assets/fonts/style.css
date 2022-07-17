@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'times new roman';
+   font-display: swap;
+   src: url('times new roman/font.ttf');
+}
+@font-face {
+   font-family: 'times new roman bold';
+   font-display: swap;
+   src: url('times new roman bold/font.ttf');
+}
